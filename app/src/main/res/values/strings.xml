@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Going</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="facebook_app_id">639611869761319</string>
+    <string name="fb_login_protocol_scheme">fb639611869761319</string>
+
+    <string name="title_activity_maps">Map</string>
+</resources>
